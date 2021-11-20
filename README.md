@@ -7,7 +7,7 @@
 <!-- About Me List -->
 
 <ul>
-  <li>✒ I am a 13 year old high schooler from India, currently studying in Gems Modern Academy, Dubai</li>
+  <li>✒ I am a 14 year old high schooler from India, currently studying in Gems Modern Academy, Dubai</li>
   <li>🤖I love working with various web development technologies and am currently learning AI and Machine Learning along with Deep Learning with Python</li>
   <li>🍔I am also a huge foodie</li>
 </ul>
