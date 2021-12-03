@@ -1,5 +1,5 @@
 
-![Header Card](https://user-images.githubusercontent.com/73109255/136549116-b5c8fee4-6e05-4708-bad4-0aa994f64a6a.png)
+![Header Card](https://user-images.githubusercontent.com/73109255/144593295-a284c726-e9bf-4ee7-a63e-addad034b533.png)
 
 
 ## 🧑‍💻 About me
