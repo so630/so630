@@ -1,26 +1,6 @@
 
-![Header Card](https://user-images.githubusercontent.com/73109255/144593295-a284c726-e9bf-4ee7-a63e-addad034b533.png)
 
-
-## 🧑‍💻 About me
-
-<!-- About Me List -->
-
-<ul>
-  <li>✒ I am a 14 year old high schooler from India</li>
-  <li>🤖I love working with various web development technologies and am currently learning AI and Machine Learning along with Deep Learning with Python</li>
-  <li>🍔I am also a huge foodie</li>
-</ul>
-
-
-## 🖥 Proffessional
-
-<!-- Proffessional Skills List -->
-
-<ul>
-  <li>😟Currently no proffessional work, but I will be sure to get some soon!</li>
-</ul>
-
+# Greetings
 
 ## 🛠 Tech Stack
 
