@@ -1,7 +1,7 @@
 
 
 # Greetings
-Hi! I'm soham, currently a Freshman @ IIITH CSD
+Hi! I'm soham, currently a UG2 @ IIITH CSD
 ## 🛠 Tech Stack
 
 ### Web Development
